@@ -1,1 +1,3 @@
 mkdocs-with-pdf
+mkdocs-material
+pymdown-extensions

@@ -6,6 +6,9 @@ on:
       - master
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Deploy docs
@@ -13,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout main
-        uses: actions/checkout@v1
+        uses: actions/checkout@v4
 
       - name: Cancel previous run
         uses: n1hility/cancel-previous-runs@v2

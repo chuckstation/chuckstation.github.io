@@ -4,7 +4,7 @@ ChuckStation is a series of PlayStation emulators, completely free and open-sour
 
 ## Contacting us
 
-The project is maintained by [Aarvsn](https://github.com/aarvsn) you can contact him at aarvsn@disroot.org or join our [Discord server]()
+The project is maintained by [Aarvsn](https://github.com/aarvsn) you can contact him at aarvsn@disroot.org or join our [Discord server](https://discord.gg/bhsEDHkXdz)
 
 ## Supporting the projects
 

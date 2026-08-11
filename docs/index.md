@@ -8,4 +8,4 @@ The project is maintained by [Aarvsn](https://github.com/aarvsn) you can contact
 
 ## Supporting the projects
 
-We dont accept donations yet but you can contribute to the project's development to helps us with it.
+We dont accept donations yet but you can contribute to the project's development to help us with it.
